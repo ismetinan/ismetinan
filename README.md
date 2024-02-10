@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I'm İsmet
+### Currently I'm a student at Bilkent University
+### I'll be studying Computer Science for next 4 years
 <!--
 **ismetinan/ismetinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
